@@ -1,6 +1,7 @@
 watchdog
 pypdf
 python-docx
+python-pptx
 Pillow
 pytesseract
 openai
