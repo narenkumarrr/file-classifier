@@ -1,0 +1,8 @@
+watchdog
+pypdf
+python-docx
+Pillow
+pytesseract
+openai
+python-dotenv
+streamlit

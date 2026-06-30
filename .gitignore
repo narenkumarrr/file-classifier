@@ -1,0 +1,20 @@
+# Environments
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+*.sqlite3
+
+# Ignore files inside working directories but keep the directories
+WatchFolder/*
+!WatchFolder/.gitkeep
+Organized/*
+!Organized/.gitkeep
+Unsorted/*
+!Unsorted/.gitkeep
